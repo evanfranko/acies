@@ -1,9 +1,3 @@
-Sylectus
-Your Alliance Corporate ID is: 2137374
-Your User Name is: Evan Franko
-Your User ID is: EFranko
-Your Temporary Password is: SYL5260
-
 gmail
 evan@aciestransport.com
 a9NJH91h!Hsinjh$
@@ -30,3 +24,7 @@ x6s5funp
 GitHub
 evan@aciestransport.com
 2391jnIan1!s
+
+https://trackify.biz/auth
+evan@aciestransport.com
+Qwe123@
