@@ -1,17 +1,23 @@
 MEGACORP Logistics
-MC#671004
+MC 671004
 
 Reconex
-MC553169
+MC 553169
 
 SPI Logistics
-MC253915
+MC 253915
 
 SIO Logistics LLC
-MC#981067
+MC 981067
 
 Fitzmark Inc/Fitzmark Trucking Llc
-MC586603
+MC 586603
 
 Ease Logistics/Ease Expedited
-MC858765
+MC 858765
+
+KRH LOGISTICS LLC
+MC 1528648
+
+T A Services Inc Formerly Team America Inc
+MC 183070
